@@ -6,7 +6,7 @@ const despedir = (nombre) => {
     return null;
 }
 
-const getSuma = () => {
+const getSumar = () => {
     return 'Hola soy suma'
 }
 
